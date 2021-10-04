@@ -4,12 +4,12 @@
 widget: portfolio
 
 # This file represents a page section.
-headless: false
+headless: ture
 
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Development of industrial level wind park and DFIG models for steady state and transient studies
 subtitle: ''
 
 content:
@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Development of industrial level wind park and DFIG models for steady state and transient studies
+    tag: DFIG model
   - name: Other
     tag: Demo
 
