@@ -38,10 +38,11 @@ experience:
     company: IEC SC 8A JWG5
     company_url: 'https://www.iec.ch/ords/f?p=103:14:504909412611242::::FSP_ORG_ID,FSP_LANG_ID:22094,25'
     company_logo: iec
+    location: Montréal, Québec, Canada
     date_start: '2018-06-01'
     date_end: ''
-    description:
-    'System issues regarding integration of wind and PV generation into bulk electrical grid'
+    description: |2-
+    * System issues regarding integration of wind and PV generation into bulk electrical grid.
 
 design:
   columns: '2'
