@@ -37,18 +37,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'yuanzhu.chang@polymtl.ca'
+- icon: fa-researchgate
+  icon_pack: fab
+  link: 'https://www.researchgate.net/profile/Yuanzhu-Chang'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=rrO2iXsAAAAJ&hl=zh-CN
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/feed/
+  link: https://www.linkedin.com/in/yuanzhu-chang-a23a78b5/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
@@ -58,6 +55,9 @@ social:
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yuanzhu.chang@polymtl.ca"
@@ -66,6 +66,7 @@ email: "yuanzhu.chang@polymtl.ca"
 highlight_name: true
 ---
 
-Yuanzhu Chang is a Postdoctoral Fellow at Polytechnique Montréal, University of Montreal. His research interests include fault ride through control, fault analysis and protection relay of power systems. yuanzhu.chang@polymtl.ca 
+Yuanzhu Chang is a Postdoctoral Fellow at Polytechnique Montréal, University of Montreal. His research interests include fault ride through control, fault analysis and protection relay of power systems.
+yuanzhu.chang@polymtl.ca 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
