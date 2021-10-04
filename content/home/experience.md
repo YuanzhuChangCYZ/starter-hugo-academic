@@ -40,7 +40,8 @@ experience:
     company_logo: iec
     date_start: '2018-06-01'
     date_end: ''
-    description:System issues regarding integration of wind and PV generation into bulk electrical grid.
+    description:
+    System issues regarding integration of wind and PV generation into bulk electrical grid
 
 design:
   columns: '2'
