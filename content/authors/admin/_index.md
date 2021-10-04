@@ -6,7 +6,7 @@ title: Yuanzhu Chang
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow in Electronic Engineering
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -66,7 +66,7 @@ email: "yuanzhu.chang@polymtl.ca"
 highlight_name: true
 ---
 
-Since 2020, I am a Postdoctoral Fellow at Polytechnique Montréal, University of Montreal, Montréal, Québec, Canada. I am now working with Prof. Ilhan Kcoar and Prof. Jean Mahseredjian on the project "Development of industrial level wind park and DFIG models for steady state and transient studies".
+I'm currently working as a Postdoctoral Fellow at Polytechnique Montréal, University of Montreal, Montréal, Québec, Canada. I'm working closely with Prof. Ilhan Kcoar and Prof. Jean Mahseredjian on the project "Development of industrial level wind park and DFIG models for steady state and transient studies".
 yuanzhu.chang@polymtl.ca 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
