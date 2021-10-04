@@ -41,8 +41,7 @@ experience:
     location: Montréal, Québec, Canada
     date_start: '2018-06-01'
     date_end: ''
-    description: |2-
-    * System issues regarding integration of wind and PV generation into bulk electrical grid.
+    description: System issues regarding integration of wind and PV generation into bulk electrical grid.
 
 design:
   columns: '2'
