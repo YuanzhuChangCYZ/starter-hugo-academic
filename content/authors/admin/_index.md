@@ -40,9 +40,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'yuanzhu.chang@polymtl.ca'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=rrO2iXsAAAAJ&hl=zh-CN
@@ -58,15 +55,17 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yuanzhu.chang@polymtl.ca"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Yuanzhu Chang is a Postdoctoral Fellow at Polytechnique Montréal, University of Montreal. His research interests include fault ride through control, fault analysis and protection relay of power systems. 
+Yuanzhu Chang is a Postdoctoral Fellow at Polytechnique Montréal, University of Montreal. His research interests include fault ride through control, fault analysis and protection relay of power systems. yuanzhu.chang@polymtl.ca 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
