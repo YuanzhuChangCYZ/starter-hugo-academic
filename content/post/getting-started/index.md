@@ -1,9 +1,9 @@
 ---
 title: Star Reviewer of 2020, IEEE Transactions on Energy Conversion
-subtitle: Yuanzhu is named one of the star reviewers for 2020 by the Editorial Board of the IEEE Transactions on Energy Conversion 👋
+subtitle: Yuanzhu is named one of the star reviewers for 2020 by the IEEE Transactions on Energy Conversion 👋
 
 # Summary for listings and search engines
-summary: Yuanzhu is named one of the star reviewers for 2020 by the Editorial Board of the IEEE Transactions on Energy Conversion 👋
+summary: Yuanzhu is named one of the star reviewers for 2020 by the IEEE Transactions on Energy Conversion 👋
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Star Reviewer List**](https://www.ieee-pes.org/images/files/pdf/transactions-reviewers/star-reviewers-for-ec-for-2020.pdf)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -41,6 +41,7 @@ categories:
 ## Overview
 
 Thank you very much for the recognition of the Editor-in-Chief Prof. Alberto Tessarolo and the Editorial Board of the IEEE Transactions on Energy Conversion. 
-I was also be awarded as one of the star reviewers of IEEE Transactions on Energy Conversion for 2017-2018.
+I was also be awarded as one of the star reviewers of IEEE Transactions on Energy Conversion for 2017-2018.<br>
+Congratulations to all prize-winners. <br>
 I started to work as a reviewer with IEEE Transactions on Energy Conversion since September 2016. The pleasant reviewing experiences teach me a lot about how to be a reviewer as well as be an authour.
 
