@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: yuanzhu.chang@polymtl.ca
+phone: 438 924 8268
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: C.P. 6079 succ
+  city: Montréal
+  region: Québec
+  postcode: 'H3C 3A7'
+  country: Canada
+  country_code: Canada
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
