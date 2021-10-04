@@ -4,12 +4,12 @@
 widget: portfolio
 
 # This file represents a page section.
-headless: ture
+headless: true
 
 # Order that this section appears on the page.
 weight: 65
 
-title: Development of industrial level wind park and DFIG models for steady state and transient studies
+title: Projects
 subtitle: ''
 
 content:
@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Development of industrial level wind park and DFIG models for steady state and transient studies
-    tag: DFIG model
+  - name: Postdoc
+    tag: Postdoc
   - name: Other
     tag: Demo
 
