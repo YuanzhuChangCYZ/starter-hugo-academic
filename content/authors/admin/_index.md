@@ -66,7 +66,7 @@ email: "yuanzhu.chang@polymtl.ca"
 highlight_name: true
 ---
 
-Yuanzhu Chang is a Postdoctoral Fellow at Polytechnique Montréal, University of Montreal. His research interests include fault ride through control, fault analysis and protection relay of power systems.
+Since 2020, I am a Postdoctoral Fellow at Polytechnique Montréal, University of Montreal, Montréal, Québec, Canada. I am now working with Prof. Ilhan Kcoar and Prof. Jean Mahseredjian on the project "Development of industrial level wind park and DFIG models for steady state and transient studies".
 yuanzhu.chang@polymtl.ca 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
