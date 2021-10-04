@@ -14,7 +14,7 @@ organizations:
   url: https://polymtl.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I received the Bachelor and PhD degrees, all in Electronic Engineering, from the School of Electrical and Electronic Engineering, State Key Laboratory of Advanced Electromagnetic and Technology, Huazhong University of Science and Technology (HUST), Wuhan, China, in July 2014 and June 2020, respectively. Now, I am a Postdoctoral Fellow at Polytechnique Montréal.
+bio: I received the B.Eng and Ph.D degrees in Electronic Engineering from State Key Laboratory of Advanced Electromagnetic and Technology, Huazhong University of Science and Technology, China, in 2014 and 2020. Now, I am a Postdoctoral Fellow at Polytechnique Montréal.
 
 # Interests to show in About widget
 interests:
