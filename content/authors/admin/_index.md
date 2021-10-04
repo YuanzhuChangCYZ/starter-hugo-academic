@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuanzhu Chang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow in Electronic Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Polytechnique Montréal
+  url: https://polymtl.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I received the Bachelor and PhD degrees, all in Electronic Engineering, from the School of Electrical and Electronic Engineering, State Key Laboratory of Advanced Electromagnetic and Technology, Huazhong University of Science and Technology (HUST), Wuhan, China, in July 2014 and June 2020, respectively. Now, I am a Postdoctoral Fellow at Polytechnique Montréal.
 
 # Interests to show in About widget
 interests:
