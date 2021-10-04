@@ -22,28 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Postdoctoral Fellow
+    company: Polytechnique Montréal, Université de Montréal
+    company_url: 'https://www.polymtl.ca/en/'
+    company_logo: polymtl
+    location: Montréal, Québec, Canada
+    date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        * Developing advanced coordinated control strategy for DFIG converters for emerging grid codes.
+        * Developing DFIG Wind Park models in time-domain and sequence-domain for power system fault analysis.
+        * Evaluating the dynamic performances of protection elements in IBR integration scenarios. 
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Assistant Secretariat and Expert
+    company: IEC SC 8A JWG5
+    company_url: 'https://www.iec.ch/ords/f?p=103:14:504909412611242::::FSP_ORG_ID,FSP_LANG_ID:22094,25'
+    company_logo: iec
+    date_start: '2018-06-01'
+    date_end: ''
+    description:System issues regarding integration of wind and PV generation into bulk electrical grid.
 
 design:
   columns: '2'
