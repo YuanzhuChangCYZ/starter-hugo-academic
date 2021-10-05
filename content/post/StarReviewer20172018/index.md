@@ -40,5 +40,5 @@ categories:
 
 ## Overview
 
-Thanks for the recognition of the Editor-in-Chief Prof. Alberto Tessarolo and the Editorial Board of the IEEE Transactions on Energy Conversion. <br>
+Thanks for the recognition of the Editor-in-Chief Prof. Juri Jatskevich and the Editorial Board of the IEEE Transactions on Energy Conversion. <br>
 Congratulations to all prize-winners. <br>
