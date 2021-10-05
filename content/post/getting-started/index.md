@@ -40,7 +40,7 @@ categories:
 
 ## Overview
 
-Thank you very much for the recognition of the Editor-in-Chief Prof. Alberto Tessarolo and the Editorial Board of the IEEE Transactions on Energy Conversion. 
+Thanks for the recognition of the Editor-in-Chief Prof. Alberto Tessarolo and the Editorial Board of the IEEE Transactions on Energy Conversion. 
 I was also be awarded as one of the star reviewers of IEEE Transactions on Energy Conversion for 2017-2018.<br>
 Congratulations to all prize-winners. <br>
 I started to work as a reviewer with IEEE Transactions on Energy Conversion since September 2016. The pleasant reviewing experiences teach me a lot about how to be a reviewer as well as be an authour.
