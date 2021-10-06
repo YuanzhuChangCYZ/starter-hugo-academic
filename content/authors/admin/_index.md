@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D in Electronic Engineering
+  - course: Ph.D in Electrical Engineering
     institution: Huazhong University of Science and Technology
     year: 2020
-  - course: B.Eng in Electronic Engineering
+  - course: B.Eng in Electrical Engineering
     institution: Huazhong University of Science and Technology
     year: 2014
 
