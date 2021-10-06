@@ -42,7 +42,7 @@ social:
   link: 'https://www.researchgate.net/profile/Yuanzhu-Chang'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=rrO2iXsAAAAJ&hl=zh-CN
+  link: https://scholar.google.com/citations?user=rrO2iXsAAAAJ&hl=zh-CN&oi=ao
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yuanzhu-chang-a23a78b5/
