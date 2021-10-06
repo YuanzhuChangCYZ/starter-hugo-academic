@@ -43,6 +43,15 @@ experience:
     date_end: ''
     description: System issues regarding integration of wind and PV generation into bulk electrical grid.
 
+  - title: Expert
+    company: IEC SC 8A WG8
+    company_url: 'https://www.iec.ch/ords/f?p=103:14:522949686367712::::FSP_ORG_ID,FSP_LANG_ID:27987,25'
+    company_logo: iec
+    location: Montréal, Québec, Canada
+    date_start: '2021-09-30'
+    date_end: ''
+    description: Modeling of renewable energy generation for power system dynamic analysis.
+
 design:
-  columns: '2'
+  columns: '3'
 ---
