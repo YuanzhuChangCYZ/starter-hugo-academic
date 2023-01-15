@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Fellow
+    company: The Hong Kong Polytechnic University
+    company_url: 'https://www.polyu.edu.hk/ee/'
+    company_logo: polyu
+    location: Hong Kong
+    date_start: '2022-12-29'
+    date_end: ''
+    description: |2-
+        * Developing advanced control and protection strategies for DFIG converters under symmetrical and asymmetrical grid faults.
+        * Developing generic EMT-type model of DFIG Wind Park for power system voltage and frequency transient studies in time and RMS domains.
+        * Evaluating the impact of transient performances of IBRs on the protection elements. 
+  
+  - title: Postdoctoral Fellow
     company: Polytechnique Montréal, Université de Montréal
     company_url: 'https://www.polymtl.ca/en/'
     company_logo: polymtl
@@ -53,5 +65,5 @@ experience:
     description: Modeling of renewable energy generation for power system dynamic analysis.
 
 design:
-  columns: '3'
+  columns: '4'
 ---
