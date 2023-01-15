@@ -10,17 +10,17 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Polytechnique Montréal
-  url: https://polymtl.ca/
+- name: The Hong Kong Polytechnic University
+  url: https://www.polyu.edu.hk/ee/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I received the B.Eng and Ph.D degrees in Electronic Engineering from State Key Laboratory of Advanced Electromagnetic and Technology, Huazhong University of Science and Technology, China, in 2014 and 2020. Now, I am a Postdoctoral Fellow at Polytechnique Montréal.
+bio: I received the B.Eng. and Ph.D degrees in Electronic Engineering from State Key Laboratory of Advanced Electromagnetic and Technology, Huazhong University of Science and Technology, China, in 2014 and 2020. Since 2020, I worked as a Postdoctoral Fellow at Polytechnique Montreal, University of Montreal, Quebec, Canada. I am currently a Postdoctoral Fellow at The Hong Kong Polytechnic University.
 
 # Interests to show in About widget
 interests:
 - Fault ride through control
 - Power system fualt analysis
-- Power system protection relay
+- Power system protective relaying
 
 # Education to show in About widget
 education:
@@ -60,13 +60,14 @@ social:
 #  link: https://github.com/gcushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yuanzhu.chang@polymtl.ca"
+email: "yuanzhu.chang@polyu.edu.hk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I'm currently working as a Postdoctoral Fellow at Polytechnique Montréal, University of Montreal, Montréal, Québec, Canada. I'm working closely with Prof. Ilhan Kcoar and Prof. Jean Mahseredjian on the project "Development of industrial level wind park and DFIG models for steady state and transient studies".<br>
-yuanzhu.chang@polymtl.ca 
+I'm currently working as a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR on the project "Redesigning digital twins of more electronic power systems for protection and stability applications".<br>
+yuanzhu.chang@polyu.edu.hk <br>
+yuanzhu.chang@polymtl.ca
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
