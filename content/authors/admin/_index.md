@@ -66,7 +66,7 @@ email: "yuanzhu.chang@polyu.edu.hk"
 highlight_name: true
 ---
 
-I'm currently working as a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR on the project "Redesigning digital twins of more electronic power systems for protection and stability applications".<br>
+I'm currently working as a Postdoctoral Fellow at The Hong Kong Polytechnic University, Hong Kong SAR, on the project "Redesigning digital twins of more electronic power systems for protection and stability applications".<br>
 yuanzhu.chang@polyu.edu.hk <br>
 yuanzhu.chang@polymtl.ca
 
